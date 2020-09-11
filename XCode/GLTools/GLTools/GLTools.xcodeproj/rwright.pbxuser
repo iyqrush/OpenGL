@@ -1,0 +1,404 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeTarget = D2AAC045055464E500DB518D /* GLTools */;
+		addToTargets = (
+			D2AAC045055464E500DB518D /* GLTools */,
+		);
+		codeSenseManager = 39E59EB011025EEC0006BDA2 /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					950,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 300834604;
+			PBXWorkspaceStateSaveDate = 300834604;
+		};
+		perUserProjectItems = {
+			3903AC061130F3190009B30D = 3903AC061130F3190009B30D /* PBXTextBookmark */;
+			3903AD021131BF1A0009B30D = 3903AD021131BF1A0009B30D /* PBXTextBookmark */;
+			3903AD881132F0150009B30D = 3903AD881132F0150009B30D /* PBXTextBookmark */;
+			3918DD9C111E7229002E580D = 3918DD9C111E7229002E580D /* PBXTextBookmark */;
+			391E106C1133136000717CFA = 391E106C1133136000717CFA /* PBXTextBookmark */;
+			3930B8AF112E4CD7000D1F70 = 3930B8AF112E4CD7000D1F70 /* PBXTextBookmark */;
+			3930B8DE112E5192000D1F70 = 3930B8DE112E5192000D1F70 /* PBXTextBookmark */;
+			393C3A1E11602457003345C4 = 393C3A1E11602457003345C4 /* PBXTextBookmark */;
+			393C3A2011602457003345C4 = 393C3A2011602457003345C4 /* PBXTextBookmark */;
+			393C3A2111602457003345C4 = 393C3A2111602457003345C4 /* PBXTextBookmark */;
+			395F8BBC113D80E20057AA59 = 395F8BBC113D80E20057AA59 /* PBXTextBookmark */;
+			39A4801011EE6E76004C8C5B /* XCBuildMessageTextBookmark */ = 39A4801011EE6E76004C8C5B /* XCBuildMessageTextBookmark */;
+			39A4801111EE6E76004C8C5B /* PBXTextBookmark */ = 39A4801111EE6E76004C8C5B /* PBXTextBookmark */;
+			39B9B059118E23B300EA808F = 39B9B059118E23B300EA808F /* PBXTextBookmark */;
+			39DFEA7111A761A1003E0F0F = 39DFEA7111A761A1003E0F0F /* PBXTextBookmark */;
+			39DFEA7211A761A1003E0F0F = 39DFEA7211A761A1003E0F0F /* PBXTextBookmark */;
+			39DFEA7311A761A1003E0F0F = 39DFEA7311A761A1003E0F0F /* PBXTextBookmark */;
+			39E59F351102665C0006BDA2 = 39E59F351102665C0006BDA2 /* PBXTextBookmark */;
+			39E59F381102665C0006BDA2 = 39E59F381102665C0006BDA2 /* PBXTextBookmark */;
+			39E59F3A1102665C0006BDA2 = 39E59F3A1102665C0006BDA2 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 39E59EAF11025EEC0006BDA2 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	3903AC061130F3190009B30D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 39E59EB511025EF80006BDA2 /* GLTriangleBatch.cpp */;
+		name = "GLTriangleBatch.cpp: 125";
+		rLen = 105;
+		rLoc = 5037;
+		rType = 0;
+		vrLen = 1414;
+		vrLoc = 9230;
+	};
+	3903AC0C1130F3190009B30D /* ortho.cpp */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = ortho.cpp;
+		path = /Users/rwright/Desktop/SuperBible5/SB4Examples/examples/src/chapt04/Ortho/ortho.cpp;
+		sourceTree = "<absolute>";
+	};
+	3903AD021131BF1A0009B30D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3903AC0C1130F3190009B30D /* ortho.cpp */;
+		name = "ortho.cpp: 146";
+		rLen = 0;
+		rLoc = 3962;
+		rType = 0;
+		vrLen = 1384;
+		vrLoc = 4744;
+	};
+	3903AD3B1132DC130009B30D /* GLMatrixStack.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = GLMatrixStack.h;
+		path = /Users/rwright/Desktop/SuperBible5/Src/GLTools/include/GLMatrixStack.h;
+		sourceTree = "<absolute>";
+	};
+	3903AD881132F0150009B30D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3903AD3B1132DC130009B30D /* GLMatrixStack.h */;
+		name = "GLMatrixStack.h: 151";
+		rLen = 0;
+		rLoc = 5137;
+		rType = 0;
+		vrLen = 1390;
+		vrLoc = 4166;
+	};
+	3903AD8C1132F0150009B30D /* GLFrame.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = GLFrame.h;
+		path = /Users/rwright/Desktop/SuperBible5/Src/GLTools/include/GLFrame.h;
+		sourceTree = "<absolute>";
+	};
+	390D5B53112A375A001FCC45 /* GLBatch.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = GLBatch.h;
+		path = /Users/rwright/Desktop/SuperBible5/src/GLTools/include/GLBatch.h;
+		sourceTree = "<absolute>";
+	};
+	39134A741145428E00E46899 /* GLShaderManager.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = GLShaderManager.h;
+		path = /Users/rwright/Desktop/SuperBible5/src/GLTools/include/GLShaderManager.h;
+		sourceTree = "<absolute>";
+	};
+	3918DD9C111E7229002E580D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3962A8E6111BD61100E3B1AD /* GLFrustum.h */;
+		name = "GLFrustum.h: 95";
+		rLen = 66;
+		rLoc = 4101;
+		rType = 0;
+		vrLen = 2170;
+		vrLoc = 1218;
+	};
+	391E106C1133136000717CFA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3903AD8C1132F0150009B30D /* GLFrame.h */;
+		name = "GLFrame.h: 178";
+		rLen = 0;
+		rLoc = 6510;
+		rType = 0;
+		vrLen = 1124;
+		vrLoc = 5995;
+	};
+	3930B8AF112E4CD7000D1F70 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 39D4E5FE112DBF160000FDAA /* math3d.h */;
+		name = "math3d.h: 410";
+		rLen = 93;
+		rLoc = 18510;
+		rType = 0;
+		vrLen = 1993;
+		vrLoc = 17788;
+	};
+	3930B8DE112E5192000D1F70 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 39E59EB611025EF80006BDA2 /* math3d.cpp */;
+		name = "math3d.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2469;
+		vrLoc = 0;
+	};
+	393C3A1E11602457003345C4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 39E59EB311025EF80006BDA2 /* GLShaderManager.cpp */;
+		name = "GLShaderManager.cpp: 324";
+		rLen = 7;
+		rLoc = 12160;
+		rType = 0;
+		vrLen = 2714;
+		vrLoc = 11091;
+	};
+	393C3A2011602457003345C4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 39134A741145428E00E46899 /* GLShaderManager.h */;
+		name = "GLShaderManager.h: 78";
+		rLen = 0;
+		rLoc = 3055;
+		rType = 0;
+		vrLen = 1616;
+		vrLoc = 2010;
+	};
+	393C3A2111602457003345C4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 39CE461E11373EEF008FE4D8 /* GLTools.h */;
+		name = "GLTools.h: 37";
+		rLen = 0;
+		rLoc = 1757;
+		rType = 0;
+		vrLen = 1743;
+		vrLoc = 1133;
+	};
+	395F8BBC113D80E20057AA59 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 390D5B53112A375A001FCC45 /* GLBatch.h */;
+		name = "GLBatch.h: 107";
+		rLen = 0;
+		rLoc = 3933;
+		rType = 0;
+		vrLen = 1807;
+		vrLoc = 2362;
+	};
+	3962A8E6111BD61100E3B1AD /* GLFrustum.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = GLFrustum.h;
+		path = /Users/rwright/Desktop/SuperBible5/Src/GLTools/include/GLFrustum.h;
+		sourceTree = "<absolute>";
+	};
+	39A4801011EE6E76004C8C5B /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Expected constructor, destructor, or type conversion before '*' token";
+		fRef = 39E59EB411025EF80006BDA2 /* GLTools.cpp */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 1099;
+		rType = 1;
+	};
+	39A4801111EE6E76004C8C5B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 39E59EB411025EF80006BDA2 /* GLTools.cpp */;
+		name = "GLTools.cpp: 1100";
+		rLen = 0;
+		rLoc = 35946;
+		rType = 0;
+		vrLen = 1899;
+		vrLoc = 35104;
+	};
+	39B9B059118E23B300EA808F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 39E59EB211025EF80006BDA2 /* glew.c */;
+		name = "glew.c: 528";
+		rLen = 31;
+		rLoc = 22794;
+		rType = 0;
+		vrLen = 1988;
+		vrLoc = 21880;
+	};
+	39CE461E11373EEF008FE4D8 /* GLTools.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = GLTools.h;
+		path = /Users/rwright/Desktop/SuperBible5/src/GLTools/include/GLTools.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1084, 2522}}";
+			sepNavSelRange = "{1945, 0}";
+			sepNavVisRange = "{384, 2525}";
+			sepNavWindowFrame = "{{72, 117}, {1143, 1056}}";
+		};
+	};
+	39D4E5FE112DBF160000FDAA /* math3d.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = math3d.h;
+		path = /Users/rwright/Desktop/SuperBible5/src/GLTools/include/math3d.h;
+		sourceTree = "<absolute>";
+	};
+	39DFEA7111A761A1003E0F0F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 39E59EB111025EF80006BDA2 /* GLBatch.cpp */;
+		name = "GLBatch.cpp: 40";
+		rLen = 0;
+		rLoc = 1830;
+		rType = 0;
+		vrLen = 1736;
+		vrLoc = 888;
+	};
+	39DFEA7211A761A1003E0F0F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 39E59EB411025EF80006BDA2 /* GLTools.cpp */;
+		name = "GLTools.cpp: 1540";
+		rLen = 0;
+		rLoc = 52759;
+		rType = 0;
+		vrLen = 1068;
+		vrLoc = 1647;
+	};
+	39DFEA7311A761A1003E0F0F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 39E59EB511025EF80006BDA2 /* GLTriangleBatch.cpp */;
+		name = "GLTriangleBatch.cpp: 125";
+		rLen = 105;
+		rLoc = 5037;
+		rType = 0;
+		vrLen = 1592;
+		vrLoc = 3772;
+	};
+	39E59EAF11025EEC0006BDA2 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	39E59EB011025EEC0006BDA2 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	39E59EB111025EF80006BDA2 /* GLBatch.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1128, 6630}}";
+			sepNavSelRange = "{1830, 0}";
+			sepNavVisRange = "{888, 1736}";
+		};
+	};
+	39E59EB211025EF80006BDA2 /* glew.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {720, 187668}}";
+			sepNavSelRange = "{22794, 31}";
+			sepNavVisRange = "{22490, 654}";
+			sepNavWindowFrame = "{{430, 218}, {836, 955}}";
+		};
+	};
+	39E59EB311025EF80006BDA2 /* GLShaderManager.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1188, 9451}}";
+			sepNavSelRange = "{12160, 7}";
+			sepNavVisRange = "{11350, 1825}";
+		};
+	};
+	39E59EB411025EF80006BDA2 /* GLTools.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1224, 22308}}";
+			sepNavSelRange = "{35946, 0}";
+			sepNavVisRange = "{35104, 1899}";
+			sepNavWindowFrame = "{{89, 88}, {1436, 1073}}";
+		};
+	};
+	39E59EB511025EF80006BDA2 /* GLTriangleBatch.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1128, 3601}}";
+			sepNavSelRange = "{5037, 105}";
+			sepNavVisRange = "{4025, 1390}";
+			sepNavWindowFrame = "{{15, 124}, {1690, 1049}}";
+		};
+	};
+	39E59EB611025EF80006BDA2 /* math3d.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 12974}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 2469}";
+		};
+	};
+	39E59F351102665C0006BDA2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 39E59F361102665C0006BDA2 /* GLBatchBase.h */;
+		name = "GLBatchBase.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2078;
+		vrLoc = 0;
+	};
+	39E59F361102665C0006BDA2 /* GLBatchBase.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = GLBatchBase.h;
+		path = /Users/rwright/Desktop/SuperBible5/src/GLTools/include/GLBatchBase.h;
+		sourceTree = "<absolute>";
+	};
+	39E59F381102665C0006BDA2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 39E59F391102665C0006BDA2 /* GLTriangleBatch.h */;
+		name = "GLTriangleBatch.h: 68";
+		rLen = 0;
+		rLoc = 2865;
+		rType = 0;
+		vrLen = 2131;
+		vrLoc = 898;
+	};
+	39E59F391102665C0006BDA2 /* GLTriangleBatch.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = GLTriangleBatch.h;
+		path = /Users/rwright/Desktop/SuperBible5/Src/GLTools/include/GLTriangleBatch.h;
+		sourceTree = "<absolute>";
+	};
+	39E59F3A1102665C0006BDA2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Variable or field 'gltMakeTorus' declared void";
+		fRef = 39E59F3B1102665C0006BDA2 /* gltools.h */;
+		rLen = 1;
+		rLoc = 154;
+		rType = 1;
+	};
+	39E59F3B1102665C0006BDA2 /* gltools.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = gltools.h;
+		path = /Users/rwright/Desktop/SuperBible5/src/GLTools/include/gltools.h;
+		sourceTree = "<absolute>";
+	};
+	D2AAC045055464E500DB518D /* GLTools */ = {
+		activeExec = 0;
+	};
+}
